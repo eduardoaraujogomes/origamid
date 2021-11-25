@@ -1,0 +1,9 @@
+img {
+  max-width: 100%; /* Serve para a imagem sempre respeitar o tamanho do pai */
+  display: block;
+  width: 600px;
+}
+
+body {
+  background-color: lightblue;
+}
